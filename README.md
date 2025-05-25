@@ -26,7 +26,8 @@ Este projeto é uma API RESTful construída com FastAPI para gerenciar uma lista
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/api-filmes-fastapi.git
+git clone https://github.com/Isabellalp21/api-filmes-fastapi.git
+
 cd api-filmes-fastapi
 
 # Crie e ative o ambiente virtual
