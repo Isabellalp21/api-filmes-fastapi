@@ -10,7 +10,7 @@ Este projeto é uma API RESTful construída com FastAPI para gerenciar uma lista
 - SQLite
 - Pydantic
 - Swagger UI (gerado automaticamente)
-- Testes com Postman ou Insomnia
+- Testes com Postman 
 
 ## 📁 Funcionalidades da API
 
